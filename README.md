@@ -85,3 +85,13 @@ Returns a direct image URL printed to stdout.
 - Add a **mood**: whimsical, magical, cozy, dramatic, cinematic
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node miniatureworldgenerator.js "hyper-detailed miniature diorama scene, tilt-shift photography effect, shallow depth of field, tiny world perspective, vivid colors, highly detailed figurines and props, bokeh background blur, bird's eye view, whimsical and magical atmosphere"
+```
+
+![Example output](https://oss.talesofai.cn/picture/50c18130-717d-48cd-9f36-e70144dff0db.webp)
+
+> Prompt: *"hyper-detailed miniature diorama scene, tilt-shift photography effect, shallow depth of field, tiny world perspective, vivid colors, highly detailed figurines and props, bokeh background blur, bird's eye view, whimsical and magical atmosphere"*
